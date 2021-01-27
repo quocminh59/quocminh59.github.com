@@ -1,0 +1,55 @@
+.menudungyen {
+	position: fixed;
+    margin-top: -50px;
+    background: white;
+    z-index: 1;
+
+}
+.hienquangcao{
+	position: fixed;
+	top: 49px;
+	
+}
+.dungyen{
+	background: #dbbbbb1f;
+	width: 356px;
+	height: 683px;
+	position: absolute;
+	bottom: 1385px;
+	
+}
+.dungyenkhac{
+	background: #dbbbbb1f;
+	position: absolute;
+	bottom: 374px;
+}
+.dilen{
+	position: fixed;
+	top: 49px;
+}
+.mautoi{
+	background-color: #0000001f;
+}
+.mautrang{
+	background: white;
+}
+.xuathien{
+	z-index: 1;
+	height: 345px;
+}
+.bienmat{
+	z-index: -1;
+}
+.dnxuathien{
+	opacity: 1;
+	z-index: 2;
+}
+.vungdenxuathien{
+	opacity: 1;
+	z-index: 1;
+	
+}
+.listhienlen{
+	opacity: 1;
+	z-index: 1;
+}

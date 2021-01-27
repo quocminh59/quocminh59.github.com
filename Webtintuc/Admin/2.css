@@ -1,0 +1,170 @@
+#body
+{
+    margin-top:50px;
+}
+.special table
+{
+    width:80%;
+    font-family:Tahoma, Geneva, sans-serif;
+    font-weight:bolder;
+    color:#999;
+    margin-bottom:80px;
+}
+.special table a
+{
+    text-decoration:none;
+    color:#00a2d1;
+}
+.special table,td,th
+{
+    border-collapse:collapse;
+    border:solid #d0d0d0 1px;
+    padding:20px;
+    margin-top: -50px;
+}
+.special table td input
+{
+    width:97%;
+    height:35px;
+    border:dashed #00a2d1 1px;
+    padding-left:15px;
+    font-family:Verdana, Geneva, sans-serif;
+    box-shadow:0px 0px 0px rgba(1,0,0,0.2);
+    outline:none;
+}
+.special table td input:focus
+{
+    box-shadow:inset 1px 1px 1px rgba(1,0,0,0.2);
+    outline:none;
+}
+.special table td button
+{
+    border:solid #f9f9f9 0px;
+    box-shadow:1px 1px 1px rgba(1,0,0,0.2);
+    outline:none;
+    background:#00a2d1;
+    padding:9px 15px 9px 15px;
+    color:#f9f9f9;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    border-radius:3px;
+    width:49.5%;
+}
+.special table td button:active
+{
+    position:relative;
+    top:1px;
+}
+
+.themtintuc {
+    position: fixed;
+    left: 228px;
+    width: 1308px;
+    top: 125px;
+}
+
+.muc {
+    display: flex;
+}
+
+.head {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    border-bottom: 2px solid black;
+    width: 1320px;
+    margin-left: -67px;
+    padding-top: 3px;
+}
+
+.themtintuc p {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.themtintuc input {
+    width: 600px;
+    height: 25px;
+}
+
+textarea {
+    width: 662px;
+}
+
+.upload input {
+    width: 470px;
+}
+
+.upload button {
+    outline: none;
+    border: none;
+    color: green;
+    background: white;
+    font-size: 18px;
+}
+
+button.btn.btn-success {
+    margin-bottom: 20px;
+}
+
+.noidung {
+    height: 355px;
+}
+
+input.btn.btn-danger {
+    width: 119px;
+    height: 36px;
+}
+
+.trangchu {
+    width: 1180px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 24px;
+    height: 0px;
+}
+
+.trangchu .alert {
+    width: 401px;
+    height: 231px;
+    margin-right: 75px;
+    margin-bottom: 62px;
+    margin-top: 47px;
+    margin-left: 105px;
+    position: relative;
+}
+
+.head-home {
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+    border-bottom: 2px solid;
+    height: 35px;
+    width: 100%;
+    text-align: center;
+    margin-top: -11px;
+    padding-bottom: 47px;
+}
+
+.alert p.chude {
+    font-size: 24px;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Font Awesome 5 Free';
+}
+
+
+
+div.number {
+    font-size: 150px;
+    text-align: center;
+    display: block;
+    margin-top: -45px;
+}
+
+input.btn.btn-success {
+    height: 37px;
+    width: 100px;
+}
